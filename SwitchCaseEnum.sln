@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseEnum", "SwitchCaseEnum\SwitchCaseEnum.csproj", "{C622ED8F-1B1A-44D0-BA61-DD8C90B8F737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseEnumTests", "SwitchCaseEnumTests\SwitchCaseEnumTests.csproj", "{EE4E02E4-8090-4DCF-B740-26C7077ADEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C622ED8F-1B1A-44D0-BA61-DD8C90B8F737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C622ED8F-1B1A-44D0-BA61-DD8C90B8F737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C622ED8F-1B1A-44D0-BA61-DD8C90B8F737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C622ED8F-1B1A-44D0-BA61-DD8C90B8F737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4E02E4-8090-4DCF-B740-26C7077ADEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4E02E4-8090-4DCF-B740-26C7077ADEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4E02E4-8090-4DCF-B740-26C7077ADEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4E02E4-8090-4DCF-B740-26C7077ADEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F36D851-8F07-46E5-8848-3195DC47EAB8}
+	EndGlobalSection
+EndGlobal
